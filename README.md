@@ -1,2 +1,2 @@
 # CardWatcher
-Public App
+Official Website of CardWatcher
